@@ -1,0 +1,23 @@
+img {max-width: 100%}
+
+.FORHIDDEN{display: block}
+
+.Logo{}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+
+@media only screen and (max-width: 765px) {
+
+	.FORHIDDEN{ display: none }
+
+ }
+
+
+@media only screen and (max-width: 995px) {
+
+	.FORHIDDEN{ font-size: 95% }
+
+ }
